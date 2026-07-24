@@ -72,21 +72,47 @@ integração, testes e implantação das soluções.
 
 ## 🚀 Projeto em destaque
 
-### BioMapa — Plataforma de Inteligência Territorial
+## 🚀 Projetos em destaque
 
-Plataforma desenvolvida no contexto da FIRJAN SENAI para o Ministério do Desenvolvimento, Indústria, Comércio e Serviços — MDIC.
+Nesta seção, apresento algumas soluções que representam minha atuação prática em **Ciência de Dados, Inteligência Artificial, análise geoespacial e desenvolvimento de plataformas orientadas a dados**.
 
-A solução integra dados geoespaciais, ambientais, econômicos, produtivos e institucionais para apoiar análises estratégicas relacionadas à bioeconomia e ao desenvolvimento sustentável na Amazônia Legal.
+Os projetos envolvem diferentes etapas do ciclo de desenvolvimento, incluindo levantamento de requisitos, integração e tratamento de dados, definição da arquitetura, desenvolvimento de funcionalidades, construção de visualizações e disponibilização das soluções.
 
-Principais componentes técnicos:
+---
 
-* integração de bases de dados heterogêneas;
-* tratamento e padronização de dados geoespaciais;
-* mapas interativos com camadas temáticas;
-* filtros, indicadores e visualizações estratégicas;
-* arquitetura web baseada em Python, Flask e JavaScript;
-* organização de dados para análises territoriais;
-* desenvolvimento orientado à evolução da plataforma com recursos de IA.
+### 🗺️ BioMapa — Plataforma de Inteligência Territorial
+
+O BioMapa é um dos principais projetos da minha trajetória, reunindo **engenharia de dados, geoprocessamento, desenvolvimento web e inteligência territorial** em uma única plataforma.
+
+A solução foi desenvolvida no contexto da FIRJAN SENAI para o Ministério do Desenvolvimento, Indústria, Comércio e Serviços — MDIC.
+
+O sistema integra dados geoespaciais, ambientais, econômicos, produtivos e institucionais para apoiar análises estratégicas relacionadas à bioeconomia e ao desenvolvimento sustentável na Amazônia Legal.
+
+#### Principais componentes técnicos
+
+- Integração de bases de dados heterogêneas;
+- Tratamento, padronização e estruturação de dados geoespaciais;
+- Mapas interativos com múltiplas camadas temáticas;
+- Filtros, indicadores e visualizações estratégicas;
+- Arquitetura web baseada em Python, Flask e JavaScript;
+- Organização de dados para análises territoriais;
+- Estrutura preparada para evolução da plataforma com recursos de Inteligência Artificial.
+
+<p align="center">
+  <img src="./biomapa-1.png" alt="Tela principal da plataforma BioMapa" width="850">
+</p>
+
+<p align="center">
+  <em>Interface principal da plataforma, com visualização territorial e camadas temáticas.</em>
+</p>
+
+<p align="center">
+  <img src="./biomapa-2.png" alt="Visualização geoespacial do BioMapa" width="850">
+</p>
+
+<p align="center">
+  <em>Visualização geoespacial utilizada para análise de dados produtivos, ambientais e institucionais.</em>
+</p>
 
 ## 🔬 Inteligência tecnológica e análise de patentes
 
