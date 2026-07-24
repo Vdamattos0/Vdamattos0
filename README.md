@@ -1,4 +1,4 @@
-# Vivian Mattos | Data Scientist & AI Engineer 👋
+# Vivian Mattos | Data Scientist & AI Engineer 
 
 Engenheira Química, Mestre em Engenharia e Cientista de Dados, com atuação no desenvolvimento de **plataformas de dados, sistemas inteligentes e soluções de Inteligência Artificial aplicadas a projetos de inovação e PD&I**.
 
