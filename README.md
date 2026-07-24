@@ -70,8 +70,6 @@ integração, testes e implantação das soluções.
 * APIs para automação de coleta e processamento de dados
 * Sistemas de apoio à decisão orientados por dados
 
-## 🚀 Projeto em destaque
-
 ## 🚀 Projetos em destaque
 
 Nesta seção, apresento algumas soluções que representam minha atuação prática em **Ciência de Dados, Inteligência Artificial, análise geoespacial e desenvolvimento de plataformas orientadas a dados**.
