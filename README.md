@@ -95,21 +95,18 @@ O sistema integra dados geoespaciais, ambientais, econômicos, produtivos e inst
 - Arquitetura web baseada em Python, Flask e JavaScript;
 - Organização de dados para análises territoriais;
 - Estrutura preparada para evolução da plataforma com recursos de Inteligência Artificial.
+- 
+<p align="center">
+  <em>Visualização geoespacial utilizada para análise de dados produtivos, ambientais e institucionais.</em>
+</p>
+
 
 <p align="center">
   <img src="./biomapa-1.png" alt="Tela principal da plataforma BioMapa" width="850">
 </p>
 
 <p align="center">
-  <em>Interface principal da plataforma, com visualização territorial e camadas temáticas.</em>
-</p>
-
-<p align="center">
   <img src="./biomapa-2.png" alt="Visualização geoespacial do BioMapa" width="850">
-</p>
-
-<p align="center">
-  <em>Visualização geoespacial utilizada para análise de dados produtivos, ambientais e institucionais.</em>
 </p>
 
 ## 🔬 Inteligência tecnológica e análise de patentes
